@@ -1,0 +1,31 @@
+# ===== 用户数据（绝不上传）=====
+config.db
+launch_config.txt
+
+# ===== Python 构建产物 =====
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.toc
+*.pkg
+*.egg-info/
+
+# ===== 日志 =====
+*.log
+startup.log
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ===== 系统 =====
+Thumbs.db
+desktop.ini
+.DS_Store
